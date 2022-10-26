@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p> - 🔭 I’m currently working with t.i. infrastructure</p>
-<p> Iam learning about skills programing, exactly JS, HTML, CSS and C# </p>
+
+<p> I AM LEARNING ABOUT : JS, CSS, HTML5, NodeJS, REST API e SQL. </p>
 <p> Iam From Brazil, 22 years old, June 1. </p>  
- <p> Soon i wanna learn about React native  to be a better programmer.</p>
+ 
