@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/JhonReimberg/JhonReimberg/main/profile-banner.svg" alt="João Vitor Reimberg — Full Stack Developer" width="100%"></p>
+
 # João Vitor Reimberg
 
 ## Full Stack Developer
