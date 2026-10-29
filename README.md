@@ -4,29 +4,33 @@
 
 ## Full Stack Developer
 
-I build web applications, APIs, automation tools and desktop software focused on practical business problems.
+I build practical software for real workflows: web applications, APIs, automation tools and cloud-ready systems.
 
-My main stack includes:
+I enjoy taking a problem from the first interface to the data model, integrations and delivery. My work combines product thinking with hands-on development, testing and continuous improvement.
 
-- **Frontend:** React, TypeScript, JavaScript, Next.js, HTML, CSS and Tailwind CSS
-- **Backend:** Node.js, PHP, Laravel and REST APIs
-- **Data:** PostgreSQL, MySQL, SQLite and Supabase
-- **Desktop:** Electron and Windows applications
-- **Quality:** Vitest, Jest, ESLint and secure application architecture
+## Core stack
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, TypeScript, JavaScript, Next.js, HTML, CSS, Tailwind CSS |
+| Backend | Node.js, PHP, Laravel, REST APIs |
+| Data | PostgreSQL, MySQL, SQLite, Supabase |
+| Cloud & delivery | AWS, Docker, environment-aware deployments |
+| Quality | Vitest, Jest, ESLint, validation and secure application architecture |
 
 ## Featured projects
 
 ### [Digital Portal](https://github.com/JhonReimberg/fv-digital-portal-showcase)
 
-A sanitized portfolio showcase of a social media operations portal with separate workspaces, campaign management, content approvals, shared assets and performance reporting.
+A sanitized portfolio showcase of a social media operations portal developed for a company in Portugal. It brings internal teams and clients into separate workspaces for campaigns, content approvals, comments, assets and performance reporting.
 
-**Next.js · React · TypeScript · Supabase · Vitest**
+**Next.js · React · TypeScript · Supabase · Postiz · Vitest**
 
 ### [Retenfix Academia](https://github.com/JhonReimberg/retenfix-academia)
 
-A Windows desktop training application with learning modules, product search, assessments, local history, CSV export and an interactive 3D lab.
+A Windows training application for sales and inventory teams working with sealing components. It includes learning modules, product lookup, assessments, local history, CSV export and an interactive 3D lab.
 
-**Electron · JavaScript · SQLite · Three.js**
+**JavaScript · Three.js · SQLite · Testing · Secure local-first architecture**
 
 ### [Adv. Inteligente Updates](https://github.com/JhonReimberg/adv-inteligente-updates)
 
@@ -34,10 +38,14 @@ A public release channel containing installers and version metadata for a deskto
 
 ## What I care about
 
-- Building software that solves a real operational problem
-- Clear interfaces and maintainable code
-- Secure data handling and privacy-aware architecture
-- Automated tests and reliable delivery
-- Turning complex workflows into simple user experiences
+- Designing interfaces that make complex workflows easier to understand
+- Building maintainable full stack systems with clear boundaries
+- Treating data privacy and secure defaults as part of the product
+- Testing important business rules instead of relying only on the happy path
+- Shipping incrementally and improving from real feedback
+
+## Currently exploring
+
+Cloud deployment patterns, reliable integrations, automation workflows and better developer experiences for small teams.
 
 More projects and experiments are available in my public repositories.
