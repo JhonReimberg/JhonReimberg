@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/JhonReimberg/JhonReimberg/main/profile-banner.svg?v=2" alt="João Vitor Reimberg — Full Stack Developer" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/JhonReimberg/JhonReimberg/main/profile-banner-v2.svg" alt="João Vitor Reimberg — Full Stack Developer" width="100%"></p>
 
 # João Vitor Reimberg
 
