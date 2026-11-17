@@ -21,9 +21,9 @@ I enjoy taking a problem from the first interface to the data model, integration
 
 ## Featured projects
 
-### [Vela - Digital Bank](https://github.com/JhonReimberg/vela-banco-digital)
+### [AccioBank - Digital Bank](https://github.com/JhonReimberg/accio-bank)
 
-A fictitious digital bank built as a portfolio project, with real banking rules: double-entry ledger, pessimistic locking and idempotency for every money movement, PIX (keys, QR Code, scheduling, night limits), KYC onboarding, 2FA, explainable credit score and loans (Price table, IOF, CET), credit cards with invoices and revolving credit, investments with regressive income tax, anti-fraud review queue and real-time notifications with SignalR. One-command Docker setup, back-office, and unit + integration tests against a real PostgreSQL (Testcontainers).
+A fictitious digital bank built as a portfolio project, with real banking rules: double-entry ledger, pessimistic locking and idempotency for every money movement, PIX (keys, QR Code, scheduling, night limits), KYC onboarding, 2FA, explainable credit score and loans (Price table, IOF, CET), credit cards with invoices and revolving credit, investments with regressive income tax, anti-fraud review queue and real-time notifications with SignalR. Night-themed design system with an owl mascot and app-style navigation (separate mobile and desktop layouts). One-command Docker setup, back-office, and unit + integration tests against a real PostgreSQL (Testcontainers).
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,react,ts,docker" height="28" alt="C#, .NET, PostgreSQL, React, TypeScript, Docker">
 
