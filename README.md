@@ -21,6 +21,14 @@ I enjoy taking a problem from the first interface to the data model, integration
 
 ## Featured projects
 
+### [Vela — Digital Bank](https://github.com/JhonReimberg/vela-banco-digital)
+
+A fictitious digital bank built as a portfolio project, with real banking rules: double-entry ledger, pessimistic locking and idempotency for every money movement, PIX (keys, QR Code, scheduling, night limits), KYC onboarding, 2FA, explainable credit score and loans (Price table, IOF, CET), credit cards with invoices and revolving credit, investments with regressive income tax, anti-fraud review queue and real-time notifications with SignalR. One-command Docker setup, back-office, and unit + integration tests against a real PostgreSQL (Testcontainers).
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,react,ts,docker" height="28" alt="C#, .NET, PostgreSQL, React, TypeScript, Docker">
+
+**C# · ASP.NET Core 10 · EF Core · PostgreSQL · React 19 · TypeScript · SignalR · Docker**
+
 ### [Digital Portal](https://github.com/JhonReimberg/fv-digital-portal-showcase)
 
 A sanitized portfolio showcase of a social media operations portal developed for a company in Portugal. It brings internal teams and clients into separate workspaces for campaigns, content approvals, comments, assets and performance reporting.
@@ -29,17 +37,13 @@ A sanitized portfolio showcase of a social media operations portal developed for
 
 **Next.js · React · TypeScript · Supabase · Postiz · Vitest**
 
-### [Retenfix Academia](https://github.com/JhonReimberg/retenfix-academia)
+### [Vedações 3D](https://github.com/JhonReimberg/vedacoes-3d)
 
-A Windows training application for sales and inventory teams working with sealing components. It includes learning modules, product lookup, assessments, local history, CSV export and an interactive 3D lab.
+A desktop application that shows sealing components working inside their applications in 3D, built to train new salespeople and help anyone understand where and why each part is used. It includes an interactive 3D lab (hydraulic cylinder, flange, rotary assembly), learning modules, catalog lookup, assessments, team history and CSV export.
 
-<img src="https://skillicons.dev/icons?i=js,threejs,sqlite" height="28" alt="JavaScript, Three.js, SQLite">
+<img src="https://skillicons.dev/icons?i=electron,js,threejs,sqlite" height="28" alt="Electron, JavaScript, Three.js, SQLite">
 
-**JavaScript · Three.js · SQLite · Testing · Secure local-first architecture**
-
-### [Adv. Inteligente Updates](https://github.com/JhonReimberg/adv-inteligente-updates)
-
-A public release channel containing installers and version metadata for a desktop application.
+**Electron · JavaScript · Three.js · SQLite**
 
 ## What I care about
 
